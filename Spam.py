@@ -22,8 +22,8 @@ def main():
 def logo():
   print """%s
   __ __ ___  ___   __  __  ____   __                              
- | |/ / | | |   \  |    | |    | |  \  |%sAuthor by %sridwanszz15%s
- | |    | | | )  | | __ | |____| |   \ |%sGithub %sgithub.com/ridwanszz15%s
+ | |/ / | | |   \  |    | |    | |  \  |%sAuthor by %sDwiIrfan%s
+ | |    | | | )  | | __ | |____| |   \ |%sGithub %sgithub.com/dwiirfan19872%s
  |_|    |_| |___/  |/  \| |    | |    \|%sTeam %sSecretCreator%s
  =======================================%sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
@@ -34,11 +34,11 @@ def input():
     print "%s[%s!%s] %sMasukkan nomor target dengan benar!!"%(pu,me,pu,me)
     input()
   elif nom.startswith(tuple(["62","+62","0"])):
-    print "%s[%s!%s] %sMasukkan nomor tanpa 62, +62, ataupun 0\n%s[%s!%s] %sContoh : 85877162199"%(pu,me,pu,ku,pu,me,pu,ku)
+    print "%s[%s!%s] %sMasukkan nomor tanpa 62, +62, ataupun 0 ngono Lo cok Reti ra\n%s[%s!%s] %sContoh : 85877162199 rooh rasa??"%(pu,me,pu,ku,pu,me,pu,ku)
     input()
   else:
     global jum
-    jum = int(raw_input("%s[%s?%s] %sMasukkan jumlah spam : "%(pu,me,pu,pu)))
+    jum = int(raw_input("%s[%s?%s] %sMasukkan jumlah spam "Ojo akeh akeh su": "%(pu,me,pu,pu)))
     main()
 #-------------------------------SPAM Function-------------------------------------------
 def asakita():
